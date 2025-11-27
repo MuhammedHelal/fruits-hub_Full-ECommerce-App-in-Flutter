@@ -85,22 +85,22 @@ This section highlights the technical complexity and sophisticated architectural
 
 To run this magnificent piece of engineering on your machine:
 
-1. **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/MuhammedHelal/fruits-hub_Full-ECommerce-App-in-Flutter.git](https://github.com/MuhammedHelal/fruits-hub_Full-ECommerce-App-in-Flutter.git)
-    cd fruits-hub_Full-ECommerce-App-in-Flutter
-    ```
-2. **Fetch Dependencies:**
-    ```bash
-    flutter pub get
-    ```
-3. **Setup Backend:**
-    * Configure either a **Firebase** project OR a **Supabase** project.
-    * Place the platform-specific configuration files (`google-services.json` or Supabase keys) in the appropriate directories and environment variables.
-4. **Run the App:**
-    ```bash
-    flutter run
-    ```
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/MuhammedHelal/fruits-hub_Full-ECommerce-App-in-Flutter.git](https://github.com/MuhammedHelal/fruits-hub_Full-ECommerce-App-in-Flutter.git)
+    cd fruits-hub_Full-ECommerce-App-in-Flutter
+    ```
+2.  **Fetch Dependencies:**
+    ```bash
+    flutter pub get
+    ```
+3.  **Setup Backend:**
+    * Configure either a **Firebase** project OR a **Supabase** project.
+    * Place the platform-specific configuration files (`google-services.json` or Supabase keys) in the appropriate directories and environment variables.
+4.  **Run the App:**
+    ```bash
+    flutter run
+    ```
 
 ## 🤝 Contact
 
