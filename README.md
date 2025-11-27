@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Arabic-RTL_Only-1E88E5?style=for-the-badge&logoColor=white" alt="Arabic RTL Badge"/>
 </p>
 
-## ✨ Project Showcase: Defining Modern Mobile Commerce
-
 **📢 Note: This application currently supports the Arabic language (Right-to-Left/RTL) only, as it is specialized for a local brand. English language support is architecturally planned and will be added in a future update.**
 
 **Fruits Hub** is a robust, production-ready full-stack E-commerce application engineered from the ground up using **Flutter**. This project is a specialized solution tailored for the Middle East, implementing full **Right-to-Left (RTL)** layouts across the entire application. It boasts **dual backend support** (**Firebase** and **Supabase**) and includes a dedicated, **enterprise-grade network layer** and **multi-gateway payment integration (Stripe & PayPal)**.
