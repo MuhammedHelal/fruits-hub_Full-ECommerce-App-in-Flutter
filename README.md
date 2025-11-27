@@ -33,48 +33,6 @@ This is a complete, scalable, and highly flexible solution showcasing expert-lev
 ) |
 | *Home Screen* | *Products Screen* | *Item details* |
 
-## 🖼️ Visual Preview: A Look Inside the RTL Experience
-
-Experience the full Right-to-Left (RTL) design, showcasing how every UI element is perfectly optimized for the Arabic user experience.
-
-| Onboarding Screen (Arabic) | Home Screen (Arabic) | Product Details (RTL) | Cart & Checkout (RTL) |
-| :---: | :---: | :---: | :---: |
-| 
-
-[Image of Onboarding Screen]
- | 
-
-[Image of Home Screen]
- | 
-
-[Image of Product Details Screen]
- | 
-
-[Image of Shopping Cart and Checkout]
- |
-| **User Flow: Introduction** | **User Flow: Dashboard** | **Product Specifics** | **Transaction & Review** |
-|<img width="375" height="812" alt="splash-1" src="https://github.com/user-attachments/assets/b91ea68a-6c8a-4a68-aa86-63e846b4d720" />
- | <img width="375" height="812" alt="splash-2" src="https://github.com/user-attachments/assets/98d1717c-0a6b-42f3-9e93-488a4314329b" />
-|<img width="375" height="812" alt="4  Login - Empty _ شاشة تسجيل دخول" src="https://github.com/user-attachments/assets/49eadc20-f4f5-43e6-bc34-94dfdb09f692" />
- |<img width="375" height="812" alt="Home" src="https://github.com/user-attachments/assets/e34e8146-199f-4f83-9c61-bad208869b65" />
- |
-| **User Profile Management** | **Payment Gateway** | **Screen 3 Placeholder** | **Screen 4 Placeholder** |
-| <img width="375" height="852" alt="Item details" src="https://github.com/user-attachments/assets/8fa09954-6cc5-4bd2-a4a7-e447c4443acd" />
-
-
-[Image of User Profile Screen]
- | <img width="375" height="812" alt="Products" src="https://github.com/user-attachments/assets/94177ed7-2e8e-4df4-b98a-ef15f75bc1bd" />
-
-
-[Image of Payment Gateway Screen]
- | <img width="375" height="812" alt="Recent Search" src="https://github.com/user-attachments/assets/4439039b-099b-4f72-85d9-f500bf3b2f6a" />
- |<img width="375" height="812" alt="Review" src="https://github.com/user-attachments/assets/d403829e-a0f7-4df1-aefe-8238c68c1cf5" />
-  |
-| | | | |
-
----
-
-## 💎 Key Features: What Users Experience
 
 Every feature in Fruits Hub is designed for a frictionless shopping journey, fully optimized for the Arabic user:
 
