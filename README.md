@@ -25,7 +25,6 @@ This is a complete, scalable, and highly flexible solution showcasing expert-lev
 | <img width="375" height="812" alt="splash-1" src="https://github.com/user-attachments/assets/9c11ab57-dc3f-4b86-8532-c0b5e82ad51b" /> | <img width="375" height="812" alt="splash-2" src="https://github.com/user-attachments/assets/98d1717c-0a6b-42f3-9e93-488a4314329b" /> | <img width="375" height="812" alt="4 Login - Empty _ شاشة تسجيل دخول" src="https://github.com/user-attachments/assets/169bdd59-c331-4119-b48f-c938e862ea65" /> |
 | *Onboarding 1* | *Onboarding 2* | *Sign in screen* |
 |:---:|:---:|:---:|
-
 | **Home Screen** | **Item details** | **Item details Screen** |
 | <img width="375" height="812" alt="Home" src="https://github.com/user-attachments/assets/f7174c64-579b-469a-a03b-a044441134b7" /> | <img width="375" height="812" alt="Products" src="https://github.com/user-attachments/assets/3d27c86f-e9dc-49c1-868b-1326a41e20c4" /> | <img width="375" height="852" alt="Item details" src="https://github.com/user-attachments/assets/0e792e51-e44b-462c-8bd6-a07435def8d9" /> |
 | *Home* | *Products* | *Item details* |
