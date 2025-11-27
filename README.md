@@ -1,11 +1,11 @@
-# 🚀 Fruits Hub: A Full-Scale E-Commerce Ecosystem Built with Flutter, Firebase, & Supabase
+# 🚀 Fruits Hub: A Full-Scale E-Commerce Ecosystem Built with Flutter
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/>
-  <img src="https://img.shields.io/badge/Arabic-RTL_Only-1E88E5?style=for-the-badge&logoColor=white" alt="Arabic RTL Badge"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/>
+  <img src="https://img.shields.io/badge/Arabic-RTL_Only-1E88E5?style=for-the-badge&logoColor=white" alt="Arabic RTL Badge"/>
 </p>
 
 ## ✨ Project Showcase: Defining Modern Mobile Commerce
@@ -18,18 +18,43 @@ This is a complete, scalable, and highly flexible solution showcasing expert-lev
 
 ---
 
-## 🖼️ Visual Preview
+## 🖼️ Visual Preview: A Look Inside the RTL Experience
 
-> **Note:** Replace the placeholders below with actual screenshots and a demo link! The screenshots should clearly show the Arabic text and RTL layout.
+Experience the full Right-to-Left (RTL) design, showcasing how every UI element is perfectly optimized for the Arabic user experience.
 
-| Onboarding Screen (Arabic) | Home Screen (Arabic) | Product Details (RTL) 
+| Onboarding Screen (Arabic) | Home Screen (Arabic) | Product Details (RTL) | Cart & Checkout (RTL) |
+| :---: | :---: | :---: | :---: |
+| 
+
+[Image of Onboarding Screen]
+ | 
+
+[Image of Home Screen]
+ | 
 
 [Image of Product Details Screen]
- | Cart & Checkout (RTL) 
+ | 
 
 [Image of Shopping Cart and Checkout]
  |
-| :---: | :---: | :---: | :---: |
+| **User Flow: Introduction** | **User Flow: Dashboard** | **Product Specifics** | **Transaction & Review** |
+|<img width="375" height="812" alt="splash-1" src="https://github.com/user-attachments/assets/b91ea68a-6c8a-4a68-aa86-63e846b4d720" />
+ | <img width="375" height="812" alt="splash-2" src="https://github.com/user-attachments/assets/98d1717c-0a6b-42f3-9e93-488a4314329b" />
+|<img width="375" height="812" alt="4  Login - Empty _ شاشة تسجيل دخول" src="https://github.com/user-attachments/assets/49eadc20-f4f5-43e6-bc34-94dfdb09f692" />
+ |<img width="375" height="812" alt="Home" src="https://github.com/user-attachments/assets/e34e8146-199f-4f83-9c61-bad208869b65" />
+ |
+| **User Profile Management** | **Payment Gateway** | **Screen 3 Placeholder** | **Screen 4 Placeholder** |
+| <img width="375" height="852" alt="Item details" src="https://github.com/user-attachments/assets/8fa09954-6cc5-4bd2-a4a7-e447c4443acd" />
+
+
+[Image of User Profile Screen]
+ | <img width="375" height="812" alt="Products" src="https://github.com/user-attachments/assets/94177ed7-2e8e-4df4-b98a-ef15f75bc1bd" />
+
+
+[Image of Payment Gateway Screen]
+ | <img width="375" height="812" alt="Recent Search" src="https://github.com/user-attachments/assets/4439039b-099b-4f72-85d9-f500bf3b2f6a" />
+ |<img width="375" height="812" alt="Review" src="https://github.com/user-attachments/assets/d403829e-a0f7-4df1-aefe-8238c68c1cf5" />
+  |
 | | | | |
 
 ---
@@ -93,21 +118,21 @@ This section highlights the technical complexity and sophisticated architectural
 To run this magnificent piece of engineering on your machine:
 
 1. **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/MuhammedHelal/fruits-hub_Full-ECommerce-App-in-Flutter.git](https://github.com/MuhammedHelal/fruits-hub_Full-ECommerce-App-in-Flutter.git)
-    cd fruits-hub_Full-ECommerce-App-in-Flutter
-    ```
+    ```bash
+    git clone [https://github.com/MuhammedHelal/fruits-hub_Full-ECommerce-App-in-Flutter.git](https://github.com/MuhammedHelal/fruits-hub_Full-ECommerce-App-in-Flutter.git)
+    cd fruits-hub_Full-ECommerce-App-in-Flutter
+    ```
 2. **Fetch Dependencies:**
-    ```bash
-    flutter pub get
-    ```
+    ```bash
+    flutter pub get
+    ```
 3. **Setup Backend:**
-    * Configure either a **Firebase** project OR a **Supabase** project.
-    * Place the platform-specific configuration files (`google-services.json` or Supabase keys) in the appropriate directories and environment variables.
+    * Configure either a **Firebase** project OR a **Supabase** project.
+    * Place the platform-specific configuration files (`google-services.json` or Supabase keys) in the appropriate directories and environment variables.
 4. **Run the App:**
-    ```bash
-    flutter run
-    ```
+    ```bash
+    flutter run
+    ```
 
 ## 🤝 Contact
 
