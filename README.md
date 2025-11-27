@@ -1,8 +1,9 @@
-# 🚀 Fruits Hub: نظام بيع إلكتروني متكامل (Full-Scale E-Commerce)
+# 🚀 Fruits Hub: A Full-Scale E-Commerce Ecosystem Built with Flutter, Firebase, & Supabase
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
+  <img src="https://img.shields.io/badge/Arabic-RTL_Only-1E88E5?style=for-the-badge&logoColor=white" alt="Arabic RTL Badge"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/>
 </p>
@@ -21,21 +22,15 @@ This is a complete, scalable, and highly flexible solution showcasing expert-lev
 
 > **Note:** Replace the placeholders below with actual screenshots and a demo link! The screenshots should clearly show the Arabic text and RTL layout.
 
-| Onboarding Screen (Arabic) | Home Screen (Arabic) | Product Details (RTL) | Cart & Checkout (RTL) |
-| :---: | :---: | :---: | :---: |
-| 
+| Onboarding Screen (Arabic) | Home Screen (Arabic) | Product Details (RTL) 
 
 [Image of Product Details Screen]
- | 
-
-[Image of Product Details Screen]
- | 
-
-[Image of Product Details Screen]
- | 
+ | Cart & Checkout (RTL) 
 
 [Image of Shopping Cart and Checkout]
  |
+| :---: | :---: | :---: | :---: |
+| | | | |
 
 ---
 
@@ -67,7 +62,7 @@ This section highlights the technical complexity and sophisticated architectural
 * Utilized the **BLoC Pattern** (Business Logic Component) for immutable state and reliable UI rendering. This was critical for managing complex asynchronous operations and persistent data like the shopping cart.
 
 ### 3. **Enterprise-Grade Network Layer**
-* Designed and implemented a dedicated network layer (using **Dio**) complete with **Interceptors** for logging, token refresh, and centralized error handling. This ensures robust and scalable API communication.
+* Designed and implemented a dedicated network layer (using **Dio**) complete with **Interceptors** for logging, token refresh, and centralized error handling, ensuring robust and scalable API communication.
 
 ### 4. **Dual Backend Flexibility (Firebase & Supabase)**
 * **Modular Backend Services:** Structured data service modules to allow quick switching between **Firebase Firestore** and **Supabase PostgREST**, showcasing adaptability to different backend technologies.
